@@ -1,0 +1,302 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#wrapper {
+    width: 100%;
+    height: auto;
+    background: rgb(247, 247, 246);
+}
+.wrapper1 {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background: #eaeaea;
+}
+.nav-wrapper{
+    width: 95%;
+    height: 50px;
+    background-color: #0d0d0d;
+    margin: 0 auto;
+}
+.logo{
+    width: 250px;
+    height: 30px;
+    background: url("img/logo.png");
+    background-repeat: repeat-y;
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.Top_menu ul {
+    float: right;
+    margin-right: 110px;
+    margin-top: 15px;
+}
+.Top_menu ul li{
+    float: left;
+    padding-left: 30px;
+    list-style: none;
+    font: 16px arial;
+}
+.Top_menu ul li a {
+    text-decoration: none;
+    color: #fff;
+ 
+}
+.wrapper2 {
+    width: 90%;
+    height: 390px;
+    margin: 20px auto;
+}
+.content1{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.content1 h1 {
+    font-size: 45px;
+}
+.content1 p {
+    float: left;
+    margin-top: 40px;
+    font-size: 20px;
+    color: #606060;
+}
+.button {
+    background-color: rgb(0, 5, 0);
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 40px 365px;
+    cursor: pointer;
+}
+.content2{
+    float: left;
+    width: 50%;
+    height: 100%;
+    background: url(img/main_img.png)100% 100% no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.box{
+    width: 90%;
+    height: 550px;
+    margin: 0 auto;
+    background: #e6e6e6;
+}
+.textbox{
+    float: left;
+    width: 67%;
+    height: 100%;
+}
+.editbox0 {
+    float: left;
+    width: 95%;
+    height: 250px;
+}
+#editbox {
+    float: left;
+    width: 33%;
+    height: 100%;
+    border-right: 1px solid #c9c9c9;
+}
+.textimage1 {
+    float: left;
+    margin-top: 30px;
+    margin-left: 5px;
+    width: 50px;
+    height: 50px;
+    background: url("img/icon2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.textimage2 {
+    float: left;
+    margin-top: 30px;
+    margin-left: 5px;
+    width: 50px;
+    height: 50px;
+    background: url("img/icon3.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.textimage3 {
+    float: left;
+    margin-top: 30px;
+    margin-left: 5px;
+    width: 50px;
+    height: 50px;
+    background: url("img/icon4.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+h1 {
+    float: left;
+    font-size: 36px;
+    margin-top: 35px;
+    margin-left: 5px;
+}
+h4 {
+    float: left;
+    color: #606060;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.editbox4 {
+    float: left;
+    width: 90%;
+    height: 300px;
+}
+.whitebox {
+    float: left;
+    width: 33%;
+    height: 94%;
+    background: #fff;
+    margin-top: 30px;
+    border-radius: 5px 5px 0px 0px;
+}
+.rightbox {
+    height: 85%;
+}
+.Read a {
+    float: left;
+    font: 16px arial;
+    width: 120px;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 15px;
+    color: #606060;
+}
+.textimage4 {
+    float: left;
+    margin-top: 30px;
+    margin-left: 23px;
+    width: 150px;
+    height: 300px;
+    background: url("img/recycle.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.footer{
+    width: 100%;
+    height: 280px;
+    margin: 0 auto;
+    background: #0d0d0d;
+}
+.footerbar {
+    float: left;
+    width: 100%;
+    height: 50px;
+    background: #eaeaea;
+}
+.footertext1 {
+    float: left;
+    width: 31%;
+    height: 100%;
+    background: #0d0d0d;
+}
+.footertext2 {
+    float: left;
+    width: 31%;
+    height: 100%;
+}
+.footertext3 {
+    float: left;
+    width: 33%;
+    height: 100%;
+}
+h5{
+    margin-left: 70px;
+    margin-top: 20px;
+    font: 30px arial;
+    color: #fff;
+}
+h6{
+    margin-left: 73px;
+    margin-top: 20px;
+    color: #fff;
+    font: 14px arial;
+}
+h2{
+    border-bottom: 1px solid #333232;
+    margin-left: 73px;
+    margin-top: 20px;
+    color: #fff;
+    font: 14px arial;
+}
+h3{
+    margin-left: 70px;
+    margin-top: 40px;
+    color: #fff;
+    font: 14px arial;
+}
+.txt {
+    float: left;
+    width: 80%;
+}
+#inputtext1 {
+    float: left;
+    margin-left: 75px;
+    margin-top: 30px;
+    width: 150px;
+    height: 35px;
+    background: #262626;
+    border: none;
+}
+#inputtext2 {
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 150px;
+    height: 35px;
+    background: #262626;
+    border: none;
+}
+#inputtext3 {
+    float: left;
+    margin-left: 75px;
+    margin-top: 30px;
+    width: 320px;
+    height: 35px;
+    background: #262626;
+    border: none;
+}
+.righttxt {
+    float: left;
+    width: 260px;
+    height: auto;
+}
+#submit {
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 110px;
+    height: 35px;
+    background: #222222;
+}
+#submit p {
+    color: #fff;
+}
+.footerbar p {
+    font: 16px arial;
+    margin-top: 15px;
+    text-align: center;
+    color: #606060;
+}
